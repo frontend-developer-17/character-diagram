@@ -1,0 +1,26 @@
+.wpapper{
+    display: flex;
+      align-items: center;
+}
+.wrapperPeriod{
+    text-align: center;
+    border: 2px solid rgb(213, 203, 203);
+    border-radius: 10px;
+    padding: 10px;
+}
+.inputPeriod{
+    margin-left: 10px;
+}
+.buttonPeriod{
+    margin-top: 10px;
+}
+.labelPeriod{
+    margin-bottom: 10px;
+}
+.wrapperInput{
+    display: flex;
+}
+.pieChart{
+  width: 400px;
+  height: 400px;
+}
