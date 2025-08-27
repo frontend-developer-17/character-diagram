@@ -1,6 +1,6 @@
 import styles from "./App.module.css";
 import Recharts from "./components";
-import { useAddCharacters } from "./components/hooks/addCharacters";
+import { useAddCharacters } from "./hooks/addCharacters";
 
 function App() {
   const [characters, isLoading, error] = useAddCharacters();

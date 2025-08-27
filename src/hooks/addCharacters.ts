@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { TCharacter } from "../../types";
+import { TCharacter } from "../types";
 import axios from "axios";
 
 export const useAddCharacters = ():[TCharacter[],boolean,string] => {
