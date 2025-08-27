@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://frontend-developer-17.github.io/https://github.com/frontend-developer-17/character-diagram/",
+  "homepage": "https://frontend-developer-17.github.io/https://github.com/frontend-developer-17/character-diagram",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
